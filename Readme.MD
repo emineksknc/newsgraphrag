@@ -542,7 +542,7 @@ You can reproduce this in Neo4j Browser at `http://localhost:7474`:
 ```cypher
 MATCH (n) RETURN n LIMIT 50
 ```
-After writing entities and events, each article is embedded using nomic-embed-text via Ollama and stored directly on the Article node. This embedding is what powers the vector search side of hybrid retrieval — the same Neo4j node holds both the graph relationships and its vector representation, eliminating the need for a separate vector store. 
+After writing entities and events, each article is embedded using nomic-embed-text via Ollama and stored directly on the Article node. This embedding is what powers the vector search side of hybrid retrieval — the same Neo4j node holds both the graph relationships and its vector representation, eliminating the need for a separate vector store.
 
 ---
 
