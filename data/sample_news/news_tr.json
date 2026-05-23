@@ -1,0 +1,32 @@
+[
+    {
+        "id": "news_001",
+        "title": "Erdoğan Biden ile NATO Zirvesinde Bir Araya Geldi",
+        "text": "Cumhurbaşkanı Erdoğan, Ankara'da düzenlenen NATO zirvesinde ABD Başkanı Biden ile bir araya geldi. Toplantıda Ukrayna krizi ve savunma harcamaları ele alındı. Dışişleri Bakanı Fidan da görüşmelere katılırken, Türkiye'nin F-16 talebi de gündeme geldi.",
+        "url": "https://example.com/haber/001"
+    },
+    {
+        "id": "news_002",
+        "title": "Fidan Moskova'da Putin ile Görüştü",
+        "text": "Dışişleri Bakanı Hakan Fidan, Moskova'ya gerçekleştirdiği ziyarette Rusya Cumhurbaşkanı Putin ile bir araya geldi. Görüşmede tahıl koridoru anlaşması ve ateşkes müzakereleri ele alındı. Kremlin sözcüsü Peskov, görüşmenin yapıcı geçtiğini açıkladı.",
+        "url": "https://example.com/haber/002"
+    },
+    {
+        "id": "news_003",
+        "title": "BM Güvenlik Konseyi Ukrayna İçin Toplandı",
+        "text": "Birleşmiş Milletler Güvenlik Konseyi, Ukrayna krizini görüşmek üzere New York'ta acil toplantı düzenledi. ABD Büyükelçisi Thomas-Greenfield, Rusya'nın derhal ateşkes ilan etmesini talep etti. Rusya Büyükelçisi Nebenzya ise Batı'nın tutumunu eleştirdi. Türkiye arabulucu rolünü sürdüreceğini bildirdi.",
+        "url": "https://example.com/haber/003"
+    },
+    {
+        "id": "news_004",
+        "title": "Zelensky Ankara'ya Geldi, Erdoğan ile Görüştü",
+        "text": "Ukrayna Cumhurbaşkanı Zelensky, Ankara'ya resmi ziyaret gerçekleştirdi. Cumhurbaşkanı Erdoğan ile uzun süren görüşmede Türkiye'nin barış girişimi ele alındı. Savunma Bakanı Güler de toplantıya katıldı. İki lider ortak basın toplantısında Türkiye'nin tahıl koridoruna katkısını değerlendirdi.",
+        "url": "https://example.com/haber/004"
+    },
+    {
+        "id": "news_005",
+        "title": "NATO Genel Sekreteri Stoltenberg Ankara'yı Ziyaret Etti",
+        "text": "NATO Genel Sekreteri Jens Stoltenberg, Ankara'da Cumhurbaşkanı Erdoğan ve Dışişleri Bakanı Fidan ile görüştü. Toplantıda Türkiye'nin NATO'nun doğu kanadındaki rolü ve savunma harcamaları masaya yatırıldı. Stoltenberg, Türkiye'nin ittifaka katkısını takdirle karşıladığını belirtti.",
+        "url": "https://example.com/haber/005"
+    }
+]
